@@ -1,0 +1,41 @@
+#contact iframe
+{
+    width: 100%;
+}
+.contact_1 h3
+{
+    display: inline;
+}
+.contact_1 a
+{
+    text-shadow: none;
+}
+ 
+input
+{
+    background: grey
+}
+.divofimg{
+    border: 1px solid lightgrey;
+    padding: 0px;
+}
+.divofimg img {
+    width: 100%;
+}
+.divofimg h5, .divofimg p {
+    margin-left: 20px;
+}
+.divofimg hr {
+    width: 250px;
+}
+.m1{
+    padding:10px 22px;
+    border-radius: 10px;
+    width: 100%;
+    display: inline-block;
+    margin-bottom: 15px;
+    font-size: 20px;
+}
+.m1 i{
+    float: right;
+}
